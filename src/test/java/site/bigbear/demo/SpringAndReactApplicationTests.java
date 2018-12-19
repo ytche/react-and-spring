@@ -1,4 +1,4 @@
-package no.kantega.springandreact;
+package site.bigbear.demo;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
